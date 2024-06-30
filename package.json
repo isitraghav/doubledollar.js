@@ -1,0 +1,19 @@
+{
+  "name": "doubledollar.js",
+  "version": "1.0.0",
+  "description": "A jQuery like wrapper in javascript",
+  "main": "doubledollar.js",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isitraghav/doubledollar.js.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/isitraghav/doubledollar.js/issues"
+  },
+  "homepage": "https://github.com/isitraghav/doubledollar.js#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
